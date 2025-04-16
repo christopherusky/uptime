@@ -4,17 +4,17 @@
     "url": "https://utc.trlsoftware.com",
     "icon": "https://icons.duckduckgo.com/ip3/utc.trlsoftware.com.ico",
     "slug": "utc-monitor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 485,
-    "timeWeek": 602,
-    "timeMonth": 602,
-    "timeYear": 602,
+    "time": 580,
+    "timeDay": 454,
+    "timeWeek": 580,
+    "timeMonth": 580,
+    "timeYear": 580,
     "dailyMinutesDown": {}
   }
 ]
